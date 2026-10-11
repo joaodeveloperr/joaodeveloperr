@@ -1,5 +1,5 @@
 ## Hello world! 👋
-My name is João Lucas, i am developer frontend and backend. I am 13 years old and I from brazil
+My name is João Lucas, i am developer frontend and Half backend. I am 13 years old and I from brazil
 
 **Desenvolvimento de software e projetos próprios**
 <div align="center">
