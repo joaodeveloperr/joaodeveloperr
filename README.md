@@ -11,8 +11,6 @@ My name is João Lucas, i am developer frontend and Half backend. I am 13 years 
   </a>
 </div>
 
----
-
 ## Projetos
 
 <table>
@@ -22,13 +20,13 @@ My name is João Lucas, i am developer frontend and Half backend. I am 13 years 
       <a href="https://img.shields.io/badge/Status-Em%20desenvolvimento-d29922?style=flat-square">
         <img src="https://img.shields.io/badge/Status-Em%20desenvolvimento-d29922?style=flat-square" />
       </a>
-      <p>Projeto atualmente em desenvolvimento.</p>
+      <p>Gateway de pagamentos com taxas baixas, contas para -18. PIX imediato, Cartão e Cripto</p>
       <a href="https://google.com">Acessar projeto</a>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://discord.gg/QFrBTttAY4">TK Applications</a></h3>
       <img src="https://img.shields.io/badge/Status-Em%20produ%C3%A7%C3%A3o-238636?style=flat-square" />
-      <p>Projeto atualmente em produção.</p>
+      <p>A TK Apps desenvolve bots para Discord projetadas para tornar sua comunidade mais eficiente</p>
       <a href="https://discord.gg/QFrBTttAY4">Acessar projeto</a>
     </td>
   </tr>
@@ -68,4 +66,7 @@ My name is João Lucas, i am developer frontend and Half backend. I am 13 years 
   <a href="https://github.com/joaodeveloperr">GitHub</a>
   &nbsp; · &nbsp;
   <a href="https://github.com/joaodeveloperr?tab=repositories">Repositórios</a>
+  &nbsp; · &nbsp;
+  <a href="">Meu Instagram</a>
 </div>
+// Obrigado por ler meu readme espero que tenha gostado ♥
