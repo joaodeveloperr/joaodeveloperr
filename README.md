@@ -12,7 +12,6 @@ My name is João Lucas, i am developer frontend and Half backend. I am 13 years 
 </div>
 
 ## Projetos
-
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -59,14 +58,11 @@ My name is João Lucas, i am developer frontend and Half backend. I am 13 years 
   <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248" />
   <img src="https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3FCF8E" />
 </div>
-
----
-
 <div align="center">
   <a href="https://github.com/joaodeveloperr">GitHub</a>
   &nbsp; · &nbsp;
   <a href="https://github.com/joaodeveloperr?tab=repositories">Repositórios</a>
   &nbsp; · &nbsp;
-  <a href="">Meu Instagram</a>
+  <a href="https://www.instagram.com/jjoaodzz">Meu Instagram</a>
 </div>
-// Obrigado por ler meu readme espero que tenha gostado ♥
+<!-- Ta vendo o codigo ne kkkkkkkkk, espero que tenha gostado! 💗  -->
